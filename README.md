@@ -36,3 +36,5 @@ The project welcomes enhancements to its exchange adapters, detection heuristics
 
 ## Roadmap Features  
 Planned developments include NFT minting event support, cross-chain arbitrage capabilities, and a decentralized front-running resistance system using commit-reveal schemes. The team is actively researching zero-knowledge proof implementations for transaction privacy preservation.
+
+#Sniper #Ethereum #Mempool #CryptoTrading #Telegram #Blockchain #Bot #QuickNode #Trading #Swap
