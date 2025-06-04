@@ -1,4 +1,4 @@
-# Ethereum Sniper Mempool  
+# Ethereum Sniper Mempool Bot
 
 A high-performance mempool analysis tool designed for Ethereum-based decentralized exchanges, built to identify and execute trades during token launch liquidity events with sub-second precision. This bot combines real-time blockchain data monitoring with adaptive transaction routing to capitalize on early-stage market opportunities while integrating safeguards against common DeFi risks.  
 
